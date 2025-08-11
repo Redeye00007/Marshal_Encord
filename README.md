@@ -16,8 +16,6 @@ apt update && apt upgrade -y
 pkg install python
 
 pkg install git
-
-pip install pyzipper
 git clone
 https://github.com/Redeye00007/Marshal_Encord
 cd Marshal_Encord
